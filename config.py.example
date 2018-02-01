@@ -1,0 +1,7 @@
+REDDIT_CLIENT_ID = '<script client id>'
+REDDIT_CLIENT_SECRET = '<script client secret>'
+
+SUBREDDIT = 'wallpaper+wallpapers'
+TOP_TIME = 'day'
+
+CONTRAST_TARGET = 11

@@ -1,3 +1,12 @@
+# Output files
+out.png
+
+# Configuration file
+config.py
+
+# WallpaperChanger utility
+WallpaperChanger.exe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
